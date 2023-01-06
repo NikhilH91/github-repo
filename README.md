@@ -1,3 +1,2 @@
-# github-repo this is my first project
-who are you.....
-04/02/2023
+# github-repo this is my first project 
+it is friday 
